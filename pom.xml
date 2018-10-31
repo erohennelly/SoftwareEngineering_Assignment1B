@@ -1,28 +1,32 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-<groupId>SoftEng.Assignment1.mavenproject1</groupId>
-  <artifactId>SoftEng.Assignment1.PartB</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+<groupId>Assignment1</groupId>
+  <artifactId>SoftwareEnd_Assignment1B</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  <name>SoftwareEnd_Assignment1B</name>
+  <url>http://maven.apache.org</url>
   
 
-<properties>
+ <packaging>jar</packaging>
+   <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+
     </properties>
-   <repositories>
+
+    <repositories>
         <repository>
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
     </repositories>
-    <dependencies>
+        <dependencies>
         <dependency>
-            <groupId>SoftEng.Assignment1.mavenproject1</groupId>
-            <artifactId>SoftEng.Assignment1.PartB</artifactId>
-            <version>-SNAPSHOT</version>
-        </dependency>
-
-  </dependencies>
-
+	    <groupId>com.github.erohennelly</groupId>
+	    <artifactId>SoftwareEng_Assignment1A</artifactId>
+	    <version>617456f</version>
+	</dependency>
+    </dependencies>
+  
 </project>
