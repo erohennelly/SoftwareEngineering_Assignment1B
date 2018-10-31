@@ -2,12 +2,19 @@ package SoftEng.Assignment1.PartB;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+<<<<<<< HEAD
 import java.util.Date;
 
 import org.joda.time.DateTime;
 
 
 import SoftEng.Assignment1.mavenproject1.CourseProgramme;
+=======
+
+import org.joda.time.DateTime;
+
+import SoftEng.Assignment1.mavenproject1.CoursePrograme;
+>>>>>>> 128589b6b755c5999228decaa1c03c357e48067b
 import SoftEng.Assignment1.mavenproject1.Module;
 import SoftEng.Assignment1.mavenproject1.Student;
 
