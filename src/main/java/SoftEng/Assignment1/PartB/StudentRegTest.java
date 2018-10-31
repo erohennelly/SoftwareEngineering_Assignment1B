@@ -13,7 +13,7 @@ import SoftEng.Assignment1.mavenproject1.CourseProgramme;
 import SoftEng.Assignment1.mavenproject1.Module;
 import SoftEng.Assignment1.mavenproject1.Student;
 
-// @Eoghan Hennelly
+//@Eoghan Hennelly
 
 public class StudentRegTest {
 	

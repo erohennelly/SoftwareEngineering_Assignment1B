@@ -24,7 +24,7 @@
         <dependency>
 	    <groupId>com.github.erohennelly</groupId>
 	    <artifactId>SoftwareEng_Assignment1A</artifactId>
-	    <version>-SNAPSHOT</version>
+	    <version>1.0.0-SNAPSHOT</version>
 	</dependency>
     </dependencies>
   
